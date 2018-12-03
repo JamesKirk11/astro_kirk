@@ -2,9 +2,9 @@
 layout: page
 title: About
 description: 
-image: assets/images/LaPalma_pano2b.JPG
+image: LaPalma_pano2b.JPG
 ---
-TEST
+
 I am a postdoc working with Dr. Mercedes Lopez-Morales at the Center for Astrophysics, Harvard & Smithsonian. 
 
 My primary research concerns the characterisation of exoplanet atmospheres using ground-based facilities such as [ACAM](http://www.ing.iac.es/Astronomy/instruments/acam/index.html) on the William Herschel Telescope and [EFOSC2](https://www.eso.org/sci/facilities/lasilla/instruments/efosc.html) on the New Technology Telescope.
