@@ -1,0 +1,28 @@
+# Site settings
+title: James Kirk
+email: james.kirk@cfa.harvard.edu
+description: The Jekyll version of the Spectral theme by HTML5 UP.
+baseurl: "/astro_kirk" # the subpath of your site, e.g. /blog
+url: "astro_kirk" # the base hostname & protocol for your site
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 3
+
+# Misc settings
+featured-image-source:
+
+# Social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/JamesKirk11
+gitlab_url: 
+googleplus_url: 
+instagram_url:
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/jkirk3000
+
+# Build settings
+markdown: kramdown
