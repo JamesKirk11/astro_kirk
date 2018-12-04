@@ -10,7 +10,7 @@ My primary research concerns the characterisation of exoplanet atmospheres using
 
 During my PhD, my supervisor (Prof. Peter Wheatley) and I began the Low Resolution Ground-Based Exoplanet Atmosphere Survey using Transmission Spectroscopy (LRG-BEASTS, "large beasts") to characterise a large number of exoplanet atmospheres from the ground. For more information regarding this project click [here.](./LRG-BEASTS.html) 
 
-Now that I'm at the CfA, I am now a part of the ACCESS survey that uses the Magellan telescope to observe exoplanet atmospheres. More information regarding ACCESS can be found [here.](https://www.project-access.github.io)
+Now that I'm at the CfA, I am now a part of the ACCESS survey that uses the Magellan telescope to observe exoplanet atmospheres. More information regarding ACCESS can be found [here.](https://project-access.github.io)
 
 I have also been involved in the detection of exoplanets using K2 and WASP and worked on Be/X-ray binary systems during an undergraduate summer project. A full list of my publications can be found [here.](./publications.html)
 
