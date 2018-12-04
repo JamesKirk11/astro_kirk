@@ -2,7 +2,6 @@
 layout: page
 title: About
 description: 
-image: /assets/images/LaPalma_pano2b.JPG
 ---
 
 I am a postdoc working with Dr. Mercedes Lopez-Morales at the Center for Astrophysics, Harvard & Smithsonian. 
