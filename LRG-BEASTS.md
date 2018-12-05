@@ -25,7 +25,7 @@ The LRG-BEASTS sample will allow us to test for the presence of these features a
 
 <center><img src="assets/images/LRG-BEASTS_spectra_with_ultracam.png" style="width:1100px;height:800px;"></center>
 
-The figure above shows the published results to date, all using WHT/ACAM. This figure demonstrates our ability to obtain a precision of 1H, which allows us to differentiate atmospheric models with significance.
+The figure above shows the published results to date, all using WHT/ACAM. This figure demonstrates our ability to obtain a precision of 1 atmospheric scale height, which allows us to differentiate atmospheric models with significance.
 
 We ruled out a previously claimed potassium detection in WASP-80b’s atmosphere, instead finding a hazy atmosphere consistent with GTC results ([Kirk et al., 2018](https://ui.adsabs.harvard.edu/#abs/2018MNRAS.474..876K/abstract)). It's relatively cool temperature of ~850K is consistent with the photolysis of methane leading to photochemical hazes, which was presented above.
 
