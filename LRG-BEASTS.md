@@ -7,7 +7,7 @@ description: Low Resolution Ground-Based Exoplanet Atmosphere Survey using Trans
 
 The goal of the **Low Resolution Ground-Based Exoplanet Survey using Transmission Spectroscopy (LRG-BEASTS, "large beasts")** is to provide a large sample of optical transmission spectra of hot Jupiter atmospheres. Ground-based studies are often limited by systematics and not photon noise. For this reason, LRG-BEASTS is pioneering the use of 4-metre class telescopes to perform these observations. 
 
-Hot Jupiter atmosphere have been observed to show a remarkable diversity with a continuum for clear to cloudy atmospheres [2]. LRG-BEASTS is sampling from a broad range of parameter space and will aid in the understanding of this diversity.
+Hot Jupiter atmosphere have been observed to show a remarkable diversity with a continuum from clear to cloudy atmospheres [2]. LRG-BEASTS is sampling from a broad range of parameter space and will aid in the understanding of this diversity.
 
 The [James Webb Space Telescope](https://www.jwst.nasa.gov/) will provide ground-breaking sensitivity in the infrared which will allow for the identification of molecules in the atmospheres of Earth-like exoplanets, including the potential for detections of bio-signatures such as methane and ozone. However, it's wavelength coverage will not be able to provide transmission spectra in the optical, which provides significantly tighter constraints on the abundances derived from infrared spectra alone (e.g. [1]). Furthermore, optical data are neccessary to the constrain the effects of clouds and hazes on the transmission spectrum. Therefore, optical data, together with infrared data, is crucial for a more complete understanding of an exoplanet's atmosphere.
 
