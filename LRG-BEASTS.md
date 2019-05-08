@@ -5,21 +5,21 @@ description: Low Resolution Ground-Based Exoplanet Atmosphere Survey using Trans
 ---
 
 
-The goal of the **Low Resolution Ground-Based Exoplanet Survey using Transmission Spectroscopy (LRG-BEASTS, "large beasts")** is to provide a large sample of optical transmission spectra of hot Jupiter atmospheres. Ground-based studies are often limited by systematics and not photon noise. For this reason, LRG-BEASTS is pioneering the use of 4-metre class telescopes to perform these observations. 
+The goal of the **Low Resolution Ground-Based Exoplanet Survey using Transmission Spectroscopy (LRG-BEASTS, "large beasts")** is to provide a large sample of optical transmission spectra of hot Jupiter atmospheres. Ground-based studies are often limited by systematics and not photon noise. For this reason, LRG-BEASTS is pioneering the use of 4-metre class telescopes to perform these observations.
 
 Hot Jupiter atmosphere have been observed to show a remarkable diversity with a continuum from clear to cloudy atmospheres [2]. LRG-BEASTS is sampling from a broad range of parameter space and will aid in the understanding of this diversity.
 
-The [James Webb Space Telescope](https://www.jwst.nasa.gov/) will provide ground-breaking sensitivity in the infrared which will allow for the identification of molecules in the atmospheres of Earth-like exoplanets, including the potential for detections of bio-signatures such as methane and ozone. However, it's wavelength coverage will not be able to provide transmission spectra in the optical, which provides significantly tighter constraints on the abundances derived from infrared spectra alone (e.g. [1]). Furthermore, optical data are neccessary to the constrain the effects of clouds and hazes on the transmission spectrum. Therefore, optical data, together with infrared data, is crucial for a more complete understanding of an exoplanet's atmosphere.
+The [James Webb Space Telescope](https://www.jwst.nasa.gov/) will provide ground-breaking sensitivity in the infrared which will allow for the identification of molecules in the atmospheres of Earth-like exoplanets, including the potential for detections of bio-signatures. However, it's wavelength coverage will not be able to provide transmission spectra in the optical, which provides significantly tighter constraints on the abundances derived from infrared spectra alone (e.g. [1]). Furthermore, optical data are necessary to the constrain the effects of clouds and hazes on the transmission spectrum. Therefore, optical data, together with infrared data, is crucial for a more complete understanding of an exoplanet's atmosphere.
 
 ## The sample
 
-<center><img src="assets/images/full_sample_Dec2018.png"></center>
+<center><img src="assets/images/complete_sample_May2019.png"></center>
 
-The figure above shows the LRG-BEASTS sample. These 17 planets cover a wide range of parameter space from ~0.2 to 1.5 Jupiter masses and ~830 to 2500K. This broad parameter space will allow us to analyse how the atmospheric properties vary as functions of these parameters. There is evidence that hotter planets are more likely to be cloud- and haze-free as compared to cooler planets. At equilibrium temperatures below ~1200K, CH<sub>4</sub> is the main carbon-bearing molecule and photolysis of this molecule produces hydrocarbons which are the precusors of soot [3]. Therefore, photochemical hazes are often found at these temperatures (e.g. [4]).
+The figure above shows the LRG-BEASTS sample. These 17 planets cover a wide range of parameter space from ~0.2 to 1.5 Jupiter masses and ~830 to 2500K. This broad parameter space will allow us to analyse how the atmospheric properties vary as functions of these parameters. There is evidence that hotter planets are more likely to be cloud- and haze-free as compared to cooler planets. At equilibrium temperatures below ~1200K, CH<sub>4</sub> is the main carbon-bearing molecule and photolysis of this molecule produces hydrocarbons which are the precursors of soot [3]. Therefore, photochemical hazes are often found at these temperatures (e.g. [4]).
 
 At higher equilibrium temperatures, photochemical hazes are predicted to be less prevalent but aerosols in the form of condensate clouds can still exist. These clouds can produce a range of slopes in optical transmission spectra, even in the hottest exoplanets (e.g. [5]). At hotter temperatures still (> 2000K), TiO and VO have recently been observed in hot Jupiter atmospheres (e.g. [6] + [7]), having been predicted to be important ([8]) as they are prominent features in late-type stars.
 
-The LRG-BEASTS sample will allow us to test for the presence of these features and molecules as a function of temperature. 
+The LRG-BEASTS sample will allow us to test for the presence of these features and molecules as a function of temperature.
 
 ## The results
 
@@ -58,5 +58,3 @@ Our results have also been highlighted by the Isaac Newton Group of Telescopes. 
 [9](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.482.2065E/abstract) Espinoza, N., Rackham, B. V., Jordan, A., et al. 2019, MNRAS, 482, 2065
 
 Page last modified on: 03/12/18
-
-
