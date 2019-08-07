@@ -9,6 +9,16 @@ My personal ADS library can be found [here.](https://ui.adsabs.harvard.edu/#/pub
 
 ### First author
 
+**2019**
+
+- [Confirmation of WASP-107b’s extended Helium atmosphere with Keck II/NIRSPEC] <br>
+**J. Kirk**, M.K. Alam, M. Lopez-Morales, L. Zeng <br>
+ApJ, submitted
+
+- [LRG-BEASTS: transmission spectroscopy and retrieval analysis of the highly-inflated Saturn-mass planet WASP-39b] <br>
+**J. Kirk**, M. Lopez-Morales, P.J. Wheatley, I.C. Weaver, I. Skillen, T. Louden, J. McCormac, N. Espinoza <br>
+AJ, in press
+
 **2018**
 
 - [LRG-BEASTS III: Ground-based transmission spectrum of the gas giant orbiting the cool dwarf WASP-80](https://ui.adsabs.harvard.edu/#abs/2018MNRAS.474..876K/abstract) <br>
