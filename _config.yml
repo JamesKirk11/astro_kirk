@@ -16,13 +16,13 @@ featured-image-source:
 500px_url:
 facebook_url:
 github_url: https://github.com/JamesKirk11
-gitlab_url: 
-googleplus_url: 
+gitlab_url:
+googleplus_url:
 instagram_url:
-linkedin_url: 
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/jkirk3000
+twitter_url: 
 
 # Build settings
 markdown: kramdown

@@ -21,6 +21,9 @@ AJ, in press
 
 **2018**
 
+- [PhD Thesis: Optical Transmission Spectroscopy of Hot Jupiter Atmospheres](https://wrap.warwick.ac.uk/111014/) <br>
+**J. Kirk**
+
 - [LRG-BEASTS III: Ground-based transmission spectrum of the gas giant orbiting the cool dwarf WASP-80](https://ui.adsabs.harvard.edu/#abs/2018MNRAS.474..876K/abstract) <br>
 **J. Kirk**, P.J. Wheatley, T. Louden, I. Skillen, G.W. King, J. McCormac, P.G.J. Irwin <br>
 MNRAS, 474, 876, arXiv:1710.10083
