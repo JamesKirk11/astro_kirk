@@ -15,9 +15,9 @@ My personal ADS library can be found [here.](https://ui.adsabs.harvard.edu/#/pub
 **J. Kirk**, M.K. Alam, M. Lopez-Morales, L. Zeng <br>
 ApJ, submitted
 
-- [LRG-BEASTS: transmission spectroscopy and retrieval analysis of the highly-inflated Saturn-mass planet WASP-39b] <br>
+- [LRG-BEASTS: transmission spectroscopy and retrieval analysis of the highly-inflated Saturn-mass planet WASP-39b](https://arxiv.org/pdf/1908.02358.pdf) <br>
 **J. Kirk**, M. Lopez-Morales, P.J. Wheatley, I.C. Weaver, I. Skillen, T. Louden, J. McCormac, N. Espinoza <br>
-AJ, in press
+AJ, in press, arXiv:1908.02358
 
 **2018**
 
