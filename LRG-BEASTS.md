@@ -13,23 +13,25 @@ The [James Webb Space Telescope](https://www.jwst.nasa.gov/) will provide ground
 
 ## The sample
 
-<center><img src="assets/images/complete_sample_May2019.png"></center>
+<center><img src="assets/images/complete_sample_August2019.png"></center>
 
 The figure above shows the LRG-BEASTS sample. These 17 planets cover a wide range of parameter space from ~0.2 to 1.5 Jupiter masses and ~830 to 2500K. This broad parameter space will allow us to analyse how the atmospheric properties vary as functions of these parameters. There is evidence that hotter planets are more likely to be cloud- and haze-free as compared to cooler planets. At equilibrium temperatures below ~1200K, CH<sub>4</sub> is the main carbon-bearing molecule and photolysis of this molecule produces hydrocarbons which are the precursors of soot [3]. Therefore, photochemical hazes are often found at these temperatures (e.g. [4]).
 
-At higher equilibrium temperatures, photochemical hazes are predicted to be less prevalent but aerosols in the form of condensate clouds can still exist. These clouds can produce a range of slopes in optical transmission spectra, even in the hottest exoplanets (e.g. [5]). At hotter temperatures still (> 2000K), TiO and VO have recently been observed in hot Jupiter atmospheres (e.g. [6] + [7]), having been predicted to be important ([8]) as they are prominent features in late-type stars.
+At higher equilibrium temperatures, photochemical hazes are predicted to be less prevalent but aerosols in the form of condensate clouds can still exist. These clouds can produce a range of slopes in optical transmission spectra, even in the hottest exoplanets (e.g. [5]). At hotter temperatures still (> 2000K), TiO and VO have recently been observed in hot Jupiter atmospheres (e.g. [6,7]), having been predicted to be important [8] as they are prominent features in late-type stars.
 
 The LRG-BEASTS sample will allow us to test for the presence of these features and molecules as a function of temperature.
 
 ## The results
 
-<center><img src="assets/images/LRG-BEASTS_spectra_with_ultracam.png" style="width:1100px;height:800px;"></center>
+<center><img src="assets/images/combined_spectra_single_plot.png" style="width:1100px;height:800px;"></center>
 
-The figure above shows the published results to date, all using WHT/ACAM. This figure demonstrates our ability to obtain a precision of 1 atmospheric scale height, which allows us to differentiate atmospheric models with significance.
+The figure above shows the published results to date and demonstrates our ability to obtain a precision of around 1 atmospheric scale height with a 4 metre telescope. For all planets, the best fitting atmospheric forward model is plotted.
 
-We ruled out a previously claimed potassium detection in WASP-80b’s atmosphere, instead finding a hazy atmosphere consistent with GTC results ([Kirk et al., 2018](https://ui.adsabs.harvard.edu/#abs/2018MNRAS.474..876K/abstract)). It's relatively cool temperature of ~850K is consistent with the photolysis of methane leading to photochemical hazes, which was presented above.
+We recently combined our new WHT/ACAM transmission spectrum of WASP-39b with data from VLT, HST and Spitzer ([Kirk et al., 2019](https://arxiv.org/pdf/1908.02358.pdf)). The retrievals we ran on these data retrieved a highly super-solar metallicity atmosphere (282 +65 -58 x solar) driven by the large amplitude water feature [1].
 
-In the case of WASP-52b, we found clouds in the atmosphere of WASP-52b using ULTRACAM ([Kirk et al., 2016](http://adsabs.harvard.edu/abs/2016MNRAS.463.2922K)), which was consis- tent with our later ACAM study ([Louden et al., 2017](http://adsabs.harvard.edu/abs/2017MNRAS.470..742L)). Our ULTRACAM study (Kirk et al., 2016) also revealed an in-transit anomaly which we deduced to be a result of the planet occulting a hot spot on the stellar surface. This was the first evidence of a facula crossing during an exoplanet transit. Since this study, a facula crossing has also been observed in a transit of the hot Jupiter WASP-19b [9].
+For WASP-80b, we ruled out a previously claimed potassium detection, instead finding a hazy atmosphere consistent with GTC results ([Kirk et al., 2018](https://ui.adsabs.harvard.edu/#abs/2018MNRAS.474..876K/abstract)). It's relatively cool temperature of ~850K is consistent with the photolysis of methane leading to photochemical hazes, which was presented above.
+
+In the case of WASP-52b, we found clouds in the atmosphere of WASP-52b using ULTRACAM ([Kirk et al., 2016](http://adsabs.harvard.edu/abs/2016MNRAS.463.2922K)), which was consistent with our later ACAM study ([Louden et al., 2017](http://adsabs.harvard.edu/abs/2017MNRAS.470..742L)). Our ULTRACAM study (Kirk et al., 2016) also revealed an in-transit anomaly which we deduced to be a result of the planet occulting a hot spot on the stellar surface. This was the first evidence of a facula crossing during an exoplanet transit. Since this study, a facula crossing has also been observed in a transit of the hot Jupiter WASP-19b [9].
 
 In the atmosphere of HAT-P-18b, we detected a clear Rayleigh scattering slope resulting from a high altitude haze in the planet's atmosphere ([Kirk et al., 2017](http://adsabs.harvard.edu/abs/2017MNRAS.468.3907K)). This was only the second discovery of a Rayleigh slope in a hot Jupiter atmosphere from the ground. It's equilibrium temperature is similar to WASP-80b (see Figure 1) and again highlights the prevalence of photochemical hazes in relatively-cool hot Jupiter atmospheres.
 
@@ -57,4 +59,4 @@ Our results have also been highlighted by the Isaac Newton Group of Telescopes. 
 
 [9](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.482.2065E/abstract) Espinoza, N., Rackham, B. V., Jordan, A., et al. 2019, MNRAS, 482, 2065
 
-Page last modified on: 8th May 2019
+Page last modified on: 8th August 2019
