@@ -42,6 +42,12 @@ MNRAS, 463, 2922, arXiv:1608.08993
 
 ### Co-author
 
+**2019**
+
+- [Exoplanet characterisation in the longest known resonant chain: the K2-138 system seen by HARPS](https://arxiv.org/pdf/1909.13527.pdf) <br>
+T.A. Lopez, S.C.C. Barros, A. Santerne,..., **J. Kirk** et al., 
+A&A in press
+
 **2018**
 
 - [K2-265b: A Transiting Rocky Super-Earth](https://arxiv.org/abs/1809.08869) <br>
