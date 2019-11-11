@@ -13,7 +13,7 @@ My personal ADS library can be found [here.](https://ui.adsabs.harvard.edu/#/pub
 
 - [Confirmation of WASP-107b’s extended Helium atmosphere with Keck II/NIRSPEC] <br>
 **J. Kirk**, M.K. Alam, M. Lopez-Morales, L. Zeng <br>
-ApJ, submitted
+AJ, under review
 
 - [LRG-BEASTS: transmission spectroscopy and retrieval analysis of the highly-inflated Saturn-mass planet WASP-39b](https://ui.adsabs.harvard.edu/abs/2019arXiv190802358K/abstract) <br>
 **J. Kirk**, M. Lopez-Morales, P.J. Wheatley, I.C. Weaver, I. Skillen, T. Louden, J. McCormac, N. Espinoza <br>
@@ -44,9 +44,13 @@ MNRAS, 463, 2922, arXiv:1608.08993
 
 **2019**
 
+- [ACCESS: A Visual to Near-infrared Spectrum of the Hot Jupiter WASP-43b with Evidence of H2O, but no evidence of Na or K](https://arxiv.org/pdf/1911.03358.pdf) <br>
+I.C. Weaver, M. Lopez-Morales, N. Espinoza,..., **J. Kirk** et al.,
+AJ, in press
+
 - [Exoplanet characterisation in the longest known resonant chain: the K2-138 system seen by HARPS](https://arxiv.org/pdf/1909.13527.pdf) <br>
-T.A. Lopez, S.C.C. Barros, A. Santerne,..., **J. Kirk** et al., 
-A&A in press
+T.A. Lopez, S.C.C. Barros, A. Santerne,..., **J. Kirk** et al.,
+A&A, 631, 90
 
 **2018**
 
@@ -116,7 +120,7 @@ M.J. Coe & **J. Kirk** <br>
 MNRAS, 452, 969
 
 - [K2 Variable Catalogue: Variable Stars and Eclipsing Binaries in K2 Campaigns 1 and 0](http://adsabs.harvard.edu/abs/2015A\%26A...579A..19A) <br>
-D. J. Armstrong, **J. Kirk**, K. W. F. Lam <br> 
+D. J. Armstrong, **J. Kirk**, K. W. F. Lam <br>
 A&A, 579, 19
 
 - [One of the closest exoplanet pairs to the 3:2 Mean Motion Resonance: K2-19b & c](http://adsabs.harvard.edu/abs/2015A\%26A...582A..33A) <br>
