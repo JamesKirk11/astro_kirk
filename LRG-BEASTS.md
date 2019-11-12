@@ -59,4 +59,4 @@ Our results have also been highlighted by the Isaac Newton Group of Telescopes. 
 
 [9](https://ui.adsabs.harvard.edu/#abs/2019MNRAS.482.2065E/abstract) Espinoza, N., Rackham, B. V., Jordan, A., et al. 2019, MNRAS, 482, 2065
 
-Page last modified on: 8th August 2019
+Tue 12 Nov 14:47:49 EST 2019

@@ -35,7 +35,7 @@ A copy of my PhD thesis can be found on the University of Warwick's online archi
 Master's thesis: _Characterising the Protostars in the Herschel survey of Cygnus-X_ <br>
 Advisor: Dr. Joe Hora 
 
-I enjoyed a previous stint at the CfA thanks to the University of Southampton's scholarship scheme whereby I spent my final year conducting research at the CfA which formed my master's thesis. This was an amazing experience and I am truly grateful to the University of Southampton and the Harvard-Smithsonian Center for Astrophysics for this opportunity.
+I enjoyed a previous stint at the CfA thanks to the University of Southampton's scholarship scheme whereby I spent my final year conducting research at the CfA which formed my master's thesis. This was an amazing experience and I am very grateful to the University of Southampton and the Harvard-Smithsonian Center for Astrophysics for this opportunity.
 
 
 **2010 September -- 2014 July: University of Southampton, UK - MPhys Physics with Astrophysics**
@@ -50,4 +50,4 @@ Graduated with a first class degree.
 <br> Me at a very snowy La Silla Observatory, Chile, in August 2017.
 </center>
 
-Page last modified on: 03/12/18
+Tue 12 Nov 14:48:43 EST 2019
