@@ -44,11 +44,13 @@ MNRAS, 463, 2922, arXiv:1608.08993
 
 ### Co-author
 
-**2019**
+**2020**
 
 - [ACCESS: A Visual to Near-infrared Spectrum of the Hot Jupiter WASP-43b with Evidence of H2O, but no evidence of Na or K](https://arxiv.org/pdf/1911.03358.pdf) <br>
 I.C. Weaver, M. Lopez-Morales, N. Espinoza,..., **J. Kirk** et al.,
-AJ, in press
+AJ, 159, 13
+
+**2019**
 
 - [Exoplanet characterisation in the longest known resonant chain: the K2-138 system seen by HARPS](https://arxiv.org/pdf/1909.13527.pdf) <br>
 T.A. Lopez, S.C.C. Barros, A. Santerne,..., **J. Kirk** et al.,
