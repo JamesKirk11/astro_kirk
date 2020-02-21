@@ -13,7 +13,7 @@ My personal ADS library can be found [here.](https://ui.adsabs.harvard.edu/#/pub
 
 - [Confirmation of WASP-107b’s extended Helium atmosphere with Keck II/NIRSPEC](https://ui.adsabs.harvard.edu/abs/2020arXiv200107667K/abstract) <br>
 **J. Kirk**, M.K. Alam, M. Lopez-Morales, L. Zeng <br>
-AJ, in press, arXiv:2001.07667
+AJ, 159, 115, arXiv:2001.07667
 
 **2019**
 
