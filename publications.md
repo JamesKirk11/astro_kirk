@@ -131,4 +131,4 @@ A&A, 579, 19
 D.J. Armstrong, A. Santerne, D. Veras,..., **J. Kirk** et al. <br>
 A&A, 582, 33
 
-Tue 12 Nov 14:47:10 EST 2019
+Last updated: 10 July 2020

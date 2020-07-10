@@ -44,4 +44,4 @@ Graduated with a first class degree.
 <br> Me at a very snowy La Silla Observatory, Chile, in August 2017.
 </center>
 
-Tue 12 Nov 14:48:43 EST 2019
+Last updated: 10 July 2020
