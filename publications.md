@@ -46,14 +46,18 @@ MNRAS, 463, 2922, arXiv:1608.08993
 
 **2020**
 
+- [LRG-BEASTS: Ground-based Detection of Sodium and a Steep Optical Slope in the Atmosphere of the Highly Inflated Hot-Saturn WASP-21b](https://arxiv.org/pdf/2008.00971.pdf) <br>
+L. Alderson, **J. Kirk**, M. Lopez-Morales et al., <br>
+MNRAS, in press
+
 - [ACCESS: A Visual to Near-infrared Spectrum of the Hot Jupiter WASP-43b with Evidence of H2O, but no evidence of Na or K](https://arxiv.org/pdf/1911.03358.pdf) <br>
-I.C. Weaver, M. Lopez-Morales, N. Espinoza,..., **J. Kirk** et al.,
+I.C. Weaver, M. Lopez-Morales, N. Espinoza,..., **J. Kirk** et al., <br>
 AJ, 159, 13
 
 **2019**
 
 - [Exoplanet characterisation in the longest known resonant chain: the K2-138 system seen by HARPS](https://arxiv.org/pdf/1909.13527.pdf) <br>
-T.A. Lopez, S.C.C. Barros, A. Santerne,..., **J. Kirk** et al.,
+T.A. Lopez, S.C.C. Barros, A. Santerne,..., **J. Kirk** et al., <br>
 A&A, 631, 90
 
 **2018**
