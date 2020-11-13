@@ -46,9 +46,17 @@ MNRAS, 463, 2922, arXiv:1608.08993
 
 **2020**
 
+- [Evidence of a Clear Atmosphere for WASP-62b: the Only Known Transiting Gas Giant in the JWST Continuous Viewing Zone](https://arxiv.org/pdf/2011.06424.pdf) <br>
+M.K. Alam, M. Lopez-Morales, R.J. MacDonald, N. Nikolov, **J. Kirk** et al., <br>
+AJ, in press
+
+- [ACCESS: Confirmation of No Potassium in the Atmosphere of WASP-31b](https://arxiv.org/pdf/2009.08472.pdf) <br>
+C.D. McGruder, M. Lopez-Morales, N. Espinoza,..., **J. Kirk** et al., <br>
+AJ, 160, 230
+
 - [LRG-BEASTS: Ground-based Detection of Sodium and a Steep Optical Slope in the Atmosphere of the Highly Inflated Hot-Saturn WASP-21b](https://arxiv.org/pdf/2008.00971.pdf) <br>
 L. Alderson, **J. Kirk**, M. Lopez-Morales et al., <br>
-MNRAS, in press
+MNRAS, 497, 5182
 
 - [ACCESS: A Visual to Near-infrared Spectrum of the Hot Jupiter WASP-43b with Evidence of H2O, but no evidence of Na or K](https://arxiv.org/pdf/1911.03358.pdf) <br>
 I.C. Weaver, M. Lopez-Morales, N. Espinoza,..., **J. Kirk** et al., <br>
