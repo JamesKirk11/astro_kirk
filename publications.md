@@ -44,11 +44,13 @@ MNRAS, 463, 2922, arXiv:1608.08993
 
 ### Co-author
 
-**2020**
+**2021**
 
 - [Evidence of a Clear Atmosphere for WASP-62b: the Only Known Transiting Gas Giant in the JWST Continuous Viewing Zone](https://arxiv.org/pdf/2011.06424.pdf) <br>
 M.K. Alam, M. Lopez-Morales, R.J. MacDonald, N. Nikolov, **J. Kirk** et al., <br>
-AJ, in press
+ApJL, 906, L10
+
+**2020**
 
 - [ACCESS: Confirmation of No Potassium in the Atmosphere of WASP-31b](https://arxiv.org/pdf/2009.08472.pdf) <br>
 C.D. McGruder, M. Lopez-Morales, N. Espinoza,..., **J. Kirk** et al., <br>
