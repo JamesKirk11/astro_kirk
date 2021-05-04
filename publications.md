@@ -9,6 +9,12 @@ My personal ADS library can be found [here.](https://ui.adsabs.harvard.edu/#/pub
 
 ### First author
 
+**2021**
+
+- [ACCESS & LRG-BEASTS: a precise new optical transmission spectrum of the ultrahot Jupiter WASP-103b](https://arxiv.org/pdf/2105.00012.pdf)<br>
+**J. Kirk**, B.R Rackham, R.J. MacDonald et al.<br>
+AJ, in press, arXiv:2105.00012
+
 **2020**
 
 - [Confirmation of WASP-107b’s extended Helium atmosphere with Keck II/NIRSPEC](https://ui.adsabs.harvard.edu/abs/2020arXiv200107667K/abstract) <br>
@@ -149,4 +155,4 @@ A&A, 579, 19
 D.J. Armstrong, A. Santerne, D. Veras,..., **J. Kirk** et al. <br>
 A&A, 582, 33
 
-Last updated: 10 July 2020
+Last updated: 04 May 2021
