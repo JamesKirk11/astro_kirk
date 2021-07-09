@@ -13,7 +13,7 @@ My personal ADS library can be found [here.](https://ui.adsabs.harvard.edu/#/pub
 
 - [ACCESS & LRG-BEASTS: a precise new optical transmission spectrum of the ultrahot Jupiter WASP-103b](https://arxiv.org/pdf/2105.00012.pdf)<br>
 **J. Kirk**, B.R Rackham, R.J. MacDonald et al.<br>
-AJ, in press, arXiv:2105.00012
+AJ, 162, 34, arXiv:2105.00012
 
 **2020**
 
