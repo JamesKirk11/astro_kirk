@@ -7,7 +7,8 @@ description:
 <center><img src="assets/images/me_LaSilla.JPG" style="width:413px;height:300px;">
 </center>
 
-<br>
+<br><br>
+
 My research focusses on understanding the chemical and physical properties of exoplanet atmospheres by combining the technique of transmission spectroscopy with detailed retrieval analyses.
 
 I am the Principal Investigator of the [LRG-BEASTS](./LRG-BEASTS.html) survey, which is obtaining precise optical transmission spectra of a large number of transiting gas giant exoplanets. I am also leading several programs on Keck and Magellan to study the atmospheric loss of exoplanets via [observations of helium at 1083nm](https://ui.adsabs.harvard.edu/abs/2020arXiv200107667K/abstract). I am additionally leading programs that are obtaining high-resolution optical transmission spectra of hot Jupiters using [Magellan/MIKE](https://ui.adsabs.harvard.edu/abs/2003SPIE.4841.1694B/abstract). Finally, I am an active member of the [ACCESS](http://project-access.space/) transmission spectroscopy survey of transiting exoplanets.
