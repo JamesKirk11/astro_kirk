@@ -54,7 +54,7 @@ MNRAS, 463, 2922, arXiv:1608.08993
 
 - [ACCESS: An optical transmission spectrum of the high-gravity, hot Jupiter HAT-P-23b](https://arxiv.org/pdf/2104.04101.pdf) <br>
 I.C. Weaver, M. López-Morales, M.K. Alam,..., **J. Kirk** et al., <br>
-AJ in press
+AJ, 161, 278
 
 - [Evidence of a Clear Atmosphere for WASP-62b: the Only Known Transiting Gas Giant in the JWST Continuous Viewing Zone](https://arxiv.org/pdf/2011.06424.pdf) <br>
 M.K. Alam, M. López-Morales, R.J. MacDonald, N. Nikolov, **J. Kirk** et al., <br>
@@ -155,4 +155,4 @@ A&A, 579, 19
 D.J. Armstrong, A. Santerne, D. Veras,..., **J. Kirk** et al. <br>
 A&A, 582, 33
 
-Last updated: 04 May 2021
+Last updated: 24 August 2021

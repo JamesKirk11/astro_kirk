@@ -1,12 +1,15 @@
 ---
 layout: page
 title: About
-description: 
+description:
 ---
 
-I am a postdoc working with Dr. Mercedes Lopez-Morales at the Center for Astrophysics, Harvard & Smithsonian. 
+<center><img src="assets/images/me_LaSilla.JPG" style="width:413px;height:300px;">
+</center>
 
-I perform both low- and high-resolution transmission spectroscopy of transiting exoplanets. I am currently particularly interested in studying evaporating exoplanets via [observations of helium at 1083nm](https://ui.adsabs.harvard.edu/abs/2020arXiv200107667K/abstract), searching for the alkali metals in hot Jupiter atmospheres using [Magellan/MIKE](https://ui.adsabs.harvard.edu/abs/2003SPIE.4841.1694B/abstract), and performing retrieval analyses of low-resolution transmission spectra gathered via the [LRG-BEASTS](./LRG-BEASTS.html) and [ACCESS](http://project-access.space/) surveys.
+My research focusses on understanding the chemical and physical properties of exoplanet atmospheres by combining the technique of transmission spectroscopy with detailed retrieval analyses.
+
+I am the Principal Investigator of the [LRG-BEASTS](./LRG-BEASTS.html) survey, which is obtaining precise optical transmission spectra of a large number of transiting gas giant exoplanets. I am also leading several programs on Keck and Magellan to study the atmospheric loss of exoplanets via [observations of helium at 1083nm](https://ui.adsabs.harvard.edu/abs/2020arXiv200107667K/abstract). I am additionally leading programs that are obtaining high-resolution optical transmission spectra of hot Jupiters using [Magellan/MIKE](https://ui.adsabs.harvard.edu/abs/2003SPIE.4841.1694B/abstract). Finally, I am an active member of the [ACCESS](http://project-access.space/) transmission spectroscopy survey of transiting exoplanets.
 
 A full list of my publications can be found [here.](./publications.html)
 
@@ -14,8 +17,7 @@ A full list of my publications can be found [here.](./publications.html)
 
 **2018 October -- present: Center for Astrophysics, Harvard & Smithsonian, Cambridge, MA**
 
-I am currently a postdoc working with Dr. Mercedes Lopez-Morales at the CfA. 
-
+SAO Postdoctoral Fellow.
 
 **2014 October -- 2018 August: University of Warwick, UK - PhD Astronomy**
 
@@ -28,20 +30,12 @@ A copy of my PhD thesis can be found on the University of Warwick's online archi
 **2013 September -- 2014 May: Center for Astrophysics, Harvard & Smithsonian, Cambridge, MA**
 
 Master's thesis: _Characterising the Protostars in the Herschel survey of Cygnus-X_ <br>
-Advisor: Dr. Joe Hora 
+Advisor: Dr. Joe Hora
 
-I enjoyed a previous stint at the CfA thanks to the University of Southampton's scholarship scheme whereby I spent my final year conducting research at the CfA which formed my master's thesis. 
+Thanks to the University of Southampton's scholarship scheme, I conducted my master's thesis research at the CfA.
 
 **2010 September -- 2014 July: University of Southampton, UK - MPhys Physics with Astrophysics**
 
 Graduated with a first class degree.
 
-
-
-
-<center><img src="assets/images/me_LaSilla.JPG" style="width:825px;height:600px;">
-
-<br> Me at a very snowy La Silla Observatory, Chile, in August 2017.
-</center>
-
-Last updated: 10 July 2020
+Last updated: 24 August 2021
