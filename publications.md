@@ -52,9 +52,9 @@ MNRAS, 463, 2922, arXiv:1608.08993
 
 **2021**
 
-- [p-winds: an open-source Python code to model planetary winds and upper atmospheres](https://arxiv.org/pdf/2111.11370.pdf) <br>
-L.A. Dos Santos, A.A. Vidotto, S. Vissapragada,..., **J. Kirk** et al. <br>
-A&A, in press.
+- LRG-BEASTS: sodium absorption and Rayleigh scattering in the atmosphere of WASP-94Ab using NTT/EFOSC2 <br>
+E-M. Ahrer, P.J. Wheatley, **J. Kirk** et al. <br>
+MNRAS, in press.
 
 - New Perspectives on Exoplanet Radius Gap from a Mathematica Tool and Visualized Water EOS <br>
 L. Zeng, S. Jacobsen, D. Sasselov,..., **J. Kirk** et al. <br>
