@@ -52,7 +52,7 @@ MNRAS, 463, 2922, arXiv:1608.08993
 
 **2021**
 
-- LRG-BEASTS: sodium absorption and Rayleigh scattering in the atmosphere of WASP-94Ab using NTT/EFOSC2 <br>
+- [LRG-BEASTS: sodium absorption and Rayleigh scattering in the atmosphere of WASP-94Ab using NTT/EFOSC2](https://arxiv.org/pdf/2201.02212.pdf) <br>
 E-M. Ahrer, P.J. Wheatley, **J. Kirk** et al. <br>
 MNRAS, in press.
 
