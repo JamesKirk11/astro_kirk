@@ -54,15 +54,19 @@ MNRAS, 463, 2922, arXiv:1608.08993
 
 -[The First Near-Infrared Transmission Spectrum of HIP 41378 f, a Low-Mass Temperate Jovian World in a Multi-Planet System](https://arxiv.org/pdf/2201.02686.pdf) <br>
 M.K. Alam, **J. Kirk**, C. Dressing, M. Lopez-Morales et al. <br>
-AJ, submitted.
+AJ, in press.
 
 - [LRG-BEASTS: sodium absorption and Rayleigh scattering in the atmosphere of WASP-94Ab using NTT/EFOSC2](https://arxiv.org/pdf/2201.02212.pdf) <br>
 E-M. Ahrer, P.J. Wheatley, **J. Kirk** et al. <br>
-MNRAS, in press.
+MNRAS, 510, 4857
 
-- New Perspectives on Exoplanet Radius Gap from a Mathematica Tool and Visualized Water EOS <br>
+- [New Perspectives on Exoplanet Radius Gap from a Mathematica Tool and Visualized Water EOS](https://arxiv.org/pdf/2201.02125.pdf) <br>
 L. Zeng, S. Jacobsen, D. Sasselov,..., **J. Kirk** et al. <br>
-ApJ, in press. 
+ApJ, 923, 247
+
+- [p-winds: an open-source Python code to model planetary outflows and upper atmospheres](https://arxiv.org/pdf/2111.11370.pdf) <br>
+L.A. Dos Santos, A.A. Vidotto, S. Vissapragada,..., **J. Kirk** et al. <br>
+A&A, in press.
 
 **2021**
 
