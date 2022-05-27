@@ -11,25 +11,25 @@ My personal ADS library can be found [here.](https://ui.adsabs.harvard.edu/#/pub
 
 **2022**
 
-- Keck/NIRSPEC studies of He I in the atmospheres of WASP-52b and WASP-177b <br>
+- [Keck/NIRSPEC studies of He I in the atmospheres of WASP-52b and WASP-177b](https://ui.adsabs.harvard.edu/abs/2022arXiv220511579K/abstract) <br>
 J. Kirk, L.A. Dos Santos, M. López-Morales et al. <br>
-AJ, in press.
+AJ, in press, arXiv:2205.11579
 
 **2021**
 
-- [ACCESS & LRG-BEASTS: a precise new optical transmission spectrum of the ultrahot Jupiter WASP-103b](https://arxiv.org/pdf/2105.00012.pdf)<br>
+- [ACCESS & LRG-BEASTS: a precise new optical transmission spectrum of the ultrahot Jupiter WASP-103b](https://ui.adsabs.harvard.edu/abs/2021AJ....162...34K/abstract)<br>
 **J. Kirk**, B.R. Rackham, R.J. MacDonald et al.<br>
 AJ, 162, 34, arXiv:2105.00012
 
 **2020**
 
-- [Confirmation of WASP-107b’s extended Helium atmosphere with Keck II/NIRSPEC](https://ui.adsabs.harvard.edu/abs/2020arXiv200107667K/abstract) <br>
+- [Confirmation of WASP-107b’s extended Helium atmosphere with Keck II/NIRSPEC](https://ui.adsabs.harvard.edu/abs/2020AJ....159..115K/abstract) <br>
 **J. Kirk**, M.K. Alam, M. López-Morales, L. Zeng <br>
 AJ, 159, 115, arXiv:2001.07667
 
 **2019**
 
-- [LRG-BEASTS: transmission spectroscopy and retrieval analysis of the highly-inflated Saturn-mass planet WASP-39b](https://ui.adsabs.harvard.edu/abs/2019arXiv190802358K/abstract) <br>
+- [LRG-BEASTS: transmission spectroscopy and retrieval analysis of the highly-inflated Saturn-mass planet WASP-39b](https://ui.adsabs.harvard.edu/abs/2019AJ....158..144K/abstract) <br>
 **J. Kirk**, M. López-Morales, P.J. Wheatley, I.C. Weaver, I. Skillen, T. Louden, J. McCormac, N. Espinoza <br>
 AJ, 158, 144, arXiv:1908.02358
 
