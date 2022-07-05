@@ -13,7 +13,7 @@ My personal ADS library can be found [here.](https://ui.adsabs.harvard.edu/#/pub
 
 - [Keck/NIRSPEC studies of He I in the atmospheres of WASP-52b and WASP-177b](https://ui.adsabs.harvard.edu/abs/2022arXiv220511579K/abstract) <br>
 J. Kirk, L.A. Dos Santos, M. López-Morales et al. <br>
-AJ, in press, arXiv:2205.11579
+AJ, 164, 24, arXiv:2205.11579
 
 **2021**
 
