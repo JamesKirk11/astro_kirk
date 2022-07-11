@@ -58,9 +58,13 @@ MNRAS, 463, 2922, arXiv:1608.08993
 
 **2022**
 
+-[ACCESS: Confirmation of a Clear Atmosphere for WASP-96b and a Comparison of Light Curve Detrending Techniques](https://arxiv.org/pdf/2207.03479.pdf)<br>
+C.D. McGruder, M. Lopez-Morales, **J. Kirk** et al. <br>
+AJ, in press.
+
 -[The First Near-Infrared Transmission Spectrum of HIP 41378 f, a Low-Mass Temperate Jovian World in a Multi-Planet System](https://arxiv.org/pdf/2201.02686.pdf) <br>
 M.K. Alam, **J. Kirk**, C. Dressing, M. Lopez-Morales et al. <br>
-AJ, in press.
+ApJL, 927, L5
 
 - [LRG-BEASTS: sodium absorption and Rayleigh scattering in the atmosphere of WASP-94Ab using NTT/EFOSC2](https://arxiv.org/pdf/2201.02212.pdf) <br>
 E-M. Ahrer, P.J. Wheatley, **J. Kirk** et al. <br>
