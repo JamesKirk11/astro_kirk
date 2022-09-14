@@ -58,6 +58,14 @@ MNRAS, 463, 2922, arXiv:1608.08993
 
 **2022**
 
+- [Identification of carbon dioxide in an exoplanet atmosphere](https://arxiv.org/pdf/2208.11692.pdf)<br>
+JWST Transiting Exoplanet Community Early Release Science Team (**J. Kirk** as 1st tier author)<br>
+Nature, in press.
+
+- [ACCESS: Tentative detection of H2O in the ground-based optical transmission spectrum of the low density hot-Saturn HATS-5b](https://arxiv.org/pdf/2209.00637.pdf)<br>
+N.H. Allen, N. Espinoza, A. Jordan,..., **J. Kirk** et al. <br>
+AJ, in press.
+
 -[ACCESS: Confirmation of a Clear Atmosphere for WASP-96b and a Comparison of Light Curve Detrending Techniques](https://arxiv.org/pdf/2207.03479.pdf)<br>
 C.D. McGruder, M. Lopez-Morales, **J. Kirk** et al. <br>
 AJ, in press.
@@ -183,4 +191,4 @@ A&A, 579, 19
 D.J. Armstrong, A. Santerne, D. Veras,..., **J. Kirk** et al. <br>
 A&A, 582, 33
 
-Last updated: 24 August 2021
+Last updated: 14 September 2022
