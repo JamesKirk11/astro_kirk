@@ -58,6 +58,22 @@ MNRAS, 463, 2922, arXiv:1608.08993
 
 **2022**
 
+- [Early Release Science of the exoplanet WASP-39b with JWST NIRSpec PRISM](https://arxiv.org/pdf/2211.10487)<br>
+Z. Rustamkulov, D.K. Sing, S. Mukherjee, E.M. May, **J. Kirk**, et al. <br>
+Nature, accepted
+
+- [Early Release Science of the exoplanet WASP-39b with JWST NIRSpec G395H](https://arxiv.org/pdf/2211.10488)<br>
+L. Alderson, H.R. Wakeford, M.K. Alam,..., **J. Kirk** et al. <br>
+Nature, under review
+
+- [Early Release Science of the exoplanet WASP-39b with JWST NIRCam](https://arxiv.org/pdf/2211.10489)<br>
+E-M Ahrer, K.B. Stevenson, M. Mansfield,..., **J. Kirk** et al. <br>
+Nature, accepted
+
+- [Early Release Science of the exoplanet WASP-39b with JWST NIRISS](https://arxiv.org/pdf/2211.10493)<br>
+A.D Feinstein, M. Radica, L. Welbanks,..., **J. Kirk** et al. <br>
+Nature, under review
+
 - [Identification of carbon dioxide in an exoplanet atmosphere](https://arxiv.org/pdf/2208.11692.pdf)<br>
 JWST Transiting Exoplanet Community Early Release Science Team (**J. Kirk** as 1st tier author)<br>
 Nature, in press.
