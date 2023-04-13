@@ -11,11 +11,11 @@ description:
 
 My research focusses on understanding the chemical and physical properties of exoplanet atmospheres by combining the technique of transmission spectroscopy with detailed retrieval analyses.
 
-I am heavily involved in the JWST Transiting Exoplanet Early Release Science program to observe exoplanet atmospheres and was one of the key contributors to the recent [first detection of carbon dioxide in an exoplanet atmosphere](https://www.cfa.harvard.edu/news/astronomers-detect-carbon-dioxide-planet-first-time-jwst). 
+I am heavily involved in the JWST Transiting Exoplanet Early Release Science program to observe exoplanet atmospheres and was one of the key contributors to the recent [first detection of carbon dioxide in an exoplanet atmosphere](https://www.cfa.harvard.edu/news/astronomers-detect-carbon-dioxide-planet-first-time-jwst).
 
 In addition to my work with JWST, I am leading several projects on ground-based telescopes, from acquiring precise optical transmission spectra of gas giants via the [LRG-BEASTS](./LRG-BEASTS.html) survey, to studying the atmospheric loss of exoplanets via [observations of helium at 1083nm](https://ui.adsabs.harvard.edu/abs/2020arXiv200107667K/abstract) using Keck and Magellan, to obtaining high-resolution optical transmission spectra of hot Jupiters using [Magellan/MIKE](https://ui.adsabs.harvard.edu/abs/2003SPIE.4841.1694B/abstract). I am also an active member of the [ACCESS](http://project-access.space/) transmission spectroscopy survey of transiting exoplanets.
 
-A full list of my publications can be found [here.](./publications.html)
+My personal ADS library can be found [here.](https://ui.adsabs.harvard.edu/#/public-libraries/mgPwhEXXSaSPC7QqWMQ6vw)
 
 ## A brief CV:
 
@@ -46,4 +46,4 @@ Thanks to the University of Southampton's scholarship scheme, I conducted my mas
 
 Graduated with a first class degree.
 
-Last updated: 14 September 2022
+Last updated: 13 April 2023
