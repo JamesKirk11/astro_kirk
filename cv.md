@@ -4,7 +4,11 @@ title: CV
 description:
 ---
 
-## A brief CV:
+### Publications
+
+My personal ADS library can be found [here.](https://ui.adsabs.harvard.edu/#/public-libraries/mgPwhEXXSaSPC7QqWMQ6vw)
+
+### A brief CV:
 
 **2022 October -- present: Imperial College London**
 
