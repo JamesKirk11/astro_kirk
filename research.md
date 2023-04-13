@@ -15,7 +15,7 @@ In the plot below, I show the population of **transiting** exoplanets (in grey) 
 
 On this plot, I also indicate the planets that I am studying and the observatory/method I am using to observe them. I go into a little more detail about these below the plot.
 
-<center><img src="assets/images/exo_pop_full_sample.png">
+<center><img src="assets/images/exo_pop_full_sample.png" width="75%" height="75%">
 </center>
 
 <br><br>
