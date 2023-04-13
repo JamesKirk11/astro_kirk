@@ -33,7 +33,7 @@ The figure above shows the published results to date and demonstrates our abilit
 
 **- WASP-94Ab** ([Ahrer et al., 2022](https://arxiv.org/pdf/2201.02212.pdf))
 
-In the most recent LRG-BEASTS study, Warwick graduate student Eva-Maria Ahrer led an analysis of the inflated hot Jupiter WASP-94Ab. In this study, Eva-Maria published the first transmission spectrum to use the EFOSC2 instrument on the 3.6m NTT telescope in La Silla, obtaining an exquisite precision of 128 ppm in 200A-wide bins from a single transit. Our precise transmission spectrum revealed significant evidence for sodium in the planet's atmosphere at 4.9 sigma confidence, in addition to a steeper-than-Rayleigh scattering slope. Our detection of pressure-broadened sodium suggests aerosols must be confined to relatively low altitudes. We also present archival HARPS data which reveals absorption in the stellar CaII H&K line cores, suggesting that WASP-94Ab may be losing its atmosphere, leading to cloud of gas that is enshrouding the host star. 
+In the most recent LRG-BEASTS study, Warwick graduate student Eva-Maria Ahrer led an analysis of the inflated hot Jupiter WASP-94Ab. In this study, Eva-Maria published the first transmission spectrum to use the EFOSC2 instrument on the 3.6m NTT telescope in La Silla, obtaining an exquisite precision of 128 ppm in 200A-wide bins from a single transit. Our precise transmission spectrum revealed significant evidence for sodium in the planet's atmosphere at 4.9 sigma confidence, in addition to a steeper-than-Rayleigh scattering slope. Our detection of pressure-broadened sodium suggests aerosols must be confined to relatively low altitudes. We also present archival HARPS data which reveals absorption in the stellar CaII H&K line cores, suggesting that WASP-94Ab may be losing its atmosphere, leading to cloud of gas that is enshrouding the host star.
 
 **- WASP-103b** ([Kirk et al., 2021](https://arxiv.org/pdf/2105.00012.pdf))
 
@@ -66,5 +66,3 @@ In the atmosphere of HAT-P-18b, we detected a clear Rayleigh scattering slope re
 ## News
 
 Our results have also been highlighted by the Isaac Newton Group of Telescopes. Their press release concerning LRG-BEASTS can be found [here.](http://www.ing.iac.es/PR/press/kirk.html)
-
-Last updated: 24 August 2021
