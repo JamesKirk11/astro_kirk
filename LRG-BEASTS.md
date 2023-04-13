@@ -13,7 +13,7 @@ Ground-based studies are often limited by systematics and not photon noise, and 
 
 ## The sample
 
-<center><img src="assets/images/complete_sample.png" width="75%" height="75%"></center>
+<center><img src="assets/images/complete_sample.png" width="60%" height="60%"></center>
 
 The figure above shows the LRG-BEASTS sample. These 26 planets cover a wide range of parameter space from ~0.1 to 3.2 Jupiter masses and ~730 to 2500K. This broad parameter space is allowing us to analyse how a planet's atmospheric properties vary as functions of these parameters. The planets in green are those that have been published.
 
@@ -27,7 +27,7 @@ In *mass* space, we are using our precise optical spectra to place tighter const
 
 ## The results
 
-<center><img src="assets/images/combined_spectra_single_plot.png" width="75%" height="75%"></center>
+<center><img src="assets/images/combined_spectra_single_plot.png" width="60%" height="60%"></center>
 
 The figure above shows the published results to date and demonstrates our ability to obtain a precision of around 1 atmospheric scale height with a 4-metre telescope. For all planets, the best fitting atmospheric forward model is plotted in red. The results are described in more detail below.
 

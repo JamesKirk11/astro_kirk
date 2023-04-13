@@ -4,7 +4,7 @@ title: My research
 description:
 ---
 
-<center><img src="assets/images/headshot_Sept2022.jpg" style="width:413px;height:370px;">
+<center><img src="assets/images/headshot_Sept2022.jpg" width="50%" height="50%">
 </center>
 
 <br><br>
