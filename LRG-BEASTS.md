@@ -15,7 +15,7 @@ Ground-based studies are often limited by systematics and not photon noise, and 
 
 <center><img src="assets/images/complete_sample.png" width="60%" height="60%"></center>
 
-The figure above shows the LRG-BEASTS sample. These 26 planets cover a wide range of parameter space from ~0.1 to 3.2 Jupiter masses and ~730 to 2500K. This broad parameter space is allowing us to analyse how a planet's atmospheric properties vary as functions of these parameters. The planets in green are those that have been published.
+The figure above shows the LRG-BEASTS sample. These 35 planets cover a wide range of parameter space from ~0.1 to 3.2 Jupiter masses and ~700 to 2500K. This broad parameter space is allowing us to analyse how a planet's atmospheric properties vary as functions of these parameters. The green circles indicate published planets, open circles indicate observed planets and crosses indicate upcoming observations.
 
 In *temperature* space, we are probing the transition between CH<sub>4</sub> and CO at ~1000K. Below 1000K, the photolysis of CH<sub>4</sub> produces hydrocarbon hazes in exoplanet atmospheres (e.g., [Morley et al., 2015](https://ui.adsabs.harvard.edu/#abs/2015ApJ...815..110M/abstract)), that can mute molecular absorption and lead to strong optical scattering slopes. Indeed, we have seen evidence for hydrocarbon hazes in the atmospheres of HAT-P-18b and WASP-80b (see *THE RESULTS*).
 
@@ -31,9 +31,13 @@ In *mass* space, we are using our precise optical spectra to place tighter const
 
 The figure above shows the published results to date and demonstrates our ability to obtain a precision of around 1 atmospheric scale height with a 4-metre telescope. For all planets, the best fitting atmospheric forward model is plotted in red. The results are described in more detail below.
 
+**- HATS-46b** ([Ahrer et al., 2023](https://arxiv.org/pdf/2303.07381.pdf))
+
+The single transit observation of HATS-46b revealed a cloudy atmosphere with the flat transmission spectrum ruling out clear atmospheres at 3 sigma confidence. The most impressive aspect of this study was the remarkable precision achieved in the transmission spectrum for a star with Vmag = 13.6, with a median uncertainty in the transit depth of 357 ppm for ~200A-wide bins. This resulted from the observations being just 1.03X the photon noise, which demonstrates EFOSC2's fantastic capabilities to perform ground-based optical transmission spectroscopy. 
+
 **- WASP-94Ab** ([Ahrer et al., 2022](https://arxiv.org/pdf/2201.02212.pdf))
 
-In the most recent LRG-BEASTS study, Warwick graduate student Eva-Maria Ahrer led an analysis of the inflated hot Jupiter WASP-94Ab. In this study, Eva-Maria published the first transmission spectrum to use the EFOSC2 instrument on the 3.6m NTT telescope in La Silla, obtaining an exquisite precision of 128 ppm in 200A-wide bins from a single transit. Our precise transmission spectrum revealed significant evidence for sodium in the planet's atmosphere at 4.9 sigma confidence, in addition to a steeper-than-Rayleigh scattering slope. Our detection of pressure-broadened sodium suggests aerosols must be confined to relatively low altitudes. We also present archival HARPS data which reveals absorption in the stellar CaII H&K line cores, suggesting that WASP-94Ab may be losing its atmosphere, leading to cloud of gas that is enshrouding the host star.
+Warwick graduate student Eva-Maria Ahrer led an analysis of the inflated hot Jupiter WASP-94Ab. In this study, Eva-Maria published the first transmission spectrum to use the EFOSC2 instrument on the 3.6m NTT telescope in La Silla, obtaining an exquisite precision of 128 ppm in 200A-wide bins from a single transit. Our precise transmission spectrum revealed significant evidence for sodium in the planet's atmosphere at 4.9 sigma confidence, in addition to a steeper-than-Rayleigh scattering slope. Our detection of pressure-broadened sodium suggests aerosols must be confined to relatively low altitudes. We also present archival HARPS data which reveals absorption in the stellar CaII H&K line cores, suggesting that WASP-94Ab may be losing its atmosphere, leading to cloud of gas that is enshrouding the host star.
 
 **- WASP-103b** ([Kirk et al., 2021](https://arxiv.org/pdf/2105.00012.pdf))
 
