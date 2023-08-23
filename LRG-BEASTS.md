@@ -31,9 +31,14 @@ In *mass* space, we are using our precise optical spectra to place tighter const
 
 The figure above shows the published results to date and demonstrates our ability to obtain a precision of around 1 atmospheric scale height with a 4-metre telescope. For all planets, the best fitting atmospheric forward model is plotted in red. The results are described in more detail below.
 
+
+**- WASP-25b** ([McGruder et al., 2023](https://arxiv.org/pdf/2308.06263.pdf))
+
+In this study, Harvard graduate student Chima McGruder combined 1 transit from LRG-BEASTS with 3 transits from ACCESS (Magellan/IMACS) to measure the transmission spectrum of WASP-25b. The best-fit model for this spectrum was one that included stellar contamination in the form of unocculted star spots with a temperature 1600 Kelvin cooler than the surrounding photosphere and that cover 9% of the star. The host star WASP-25 (G4 spectral type) is very similar to the Sun, highlighting how optical exoplanet spectra can help us to better understand star spots on Sun-like stars. Furthermore, the spectrum of WASP-25b was found to be consistent with a tentative relation that planets orbiting less metal-rich stars (in this case [Fe/H] = -0.2) are cloudier, perhaps because their aerosol particles are lighter and lofted to higher altitudes. However, additional observations are required to further test the existence of such a trend.
+
 **- HATS-46b** ([Ahrer et al., 2023](https://arxiv.org/pdf/2303.07381.pdf))
 
-The single transit observation of HATS-46b revealed a cloudy atmosphere with the flat transmission spectrum ruling out clear atmospheres at 3 sigma confidence. The most impressive aspect of this study was the remarkable precision achieved in the transmission spectrum for a star with Vmag = 13.6, with a median uncertainty in the transit depth of 357 ppm for ~200A-wide bins. This resulted from the observations being just 1.03X the photon noise, which demonstrates EFOSC2's fantastic capabilities to perform ground-based optical transmission spectroscopy. 
+The single transit observation of HATS-46b revealed a cloudy atmosphere with the flat transmission spectrum ruling out clear atmospheres at 3 sigma confidence. The most impressive aspect of this study was the remarkable precision achieved in the transmission spectrum for a star with Vmag = 13.6, with a median uncertainty in the transit depth of 357 ppm for ~200A-wide bins. This resulted from the observations being just 1.03X the photon noise, which demonstrates EFOSC2's fantastic capabilities to perform ground-based optical transmission spectroscopy.
 
 **- WASP-94Ab** ([Ahrer et al., 2022](https://arxiv.org/pdf/2201.02212.pdf))
 
