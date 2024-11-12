@@ -13,7 +13,7 @@ My research focusses on measuring the atmospheres of extrasolar planets ("exopla
 
 To measure an exoplanet atmosphere's composition, I use telescopes to observe the amount of light blocked by the exoplanet as it **transits** in front of its background star along our line of sight. At specific wavelengths, chemicals within the exoplanet's atmosphere will block more of the background star's light than at other wavelengths. Therefore, by measuring the amount of light blocked by the planet as a function of wavelength (a technique called [**transmission spectroscopy**](https://svs.gsfc.nasa.gov/11428)) I can determine which chemicals are present within the exoplanet's atmosphere.
 
-A list of my publications can be found [here](https://ui.adsabs.harvard.edu/#/public-libraries/mgPwhEXXSaSPC7QqWMQ6vw).
+A list of my publications can be found [here.](https://ui.adsabs.harvard.edu/#/public-libraries/mgPwhEXXSaSPC7QqWMQ6vw).
 
 ### The population of exoplanets and those that I am studying
 

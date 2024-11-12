@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BOWIE-ALIGN
-description: Bristol Oxford Warwick Imperial Exeter+ -- A spectral Light Investigation into hot gas Giant origiNs
+description: Bristol Oxford Warwick Imperial Exeter+ - A spectral Light Investigation into hot gas Giant origiNs
 ---
 
 ## Summary
@@ -11,7 +11,7 @@ BOWIE-ALIGN (PIs: Kirk & Ahrer) is using JWST to compare the atmospheric composi
 <center>
 <figure>
 <img src="assets/images/Anna_paper_sketch_v2_annotated.pdf" width="60%" height="60%">
-<figcaption>Schematic demonstrating the hypothesis test. The left hand diagram shows a planet that is born far out in the disc before undergoing partial migration through ice lines (CO and CO$_2$ in this example). Subsequently, there are two possible pathways this planet might follow to become a hot Jupiter: i) migration through the inner disc whereby the planet's orbit remains aligned (top right). In this case, the planet migrates through the H$_2$O ice line (light blue dashed circle) and accretes O-rich solids from the inner disc. ii) disc-free (high-eccentricity) migration, whereby the planet is perturbed onto an eccentric and misaligned orbit before undergoing tidal circularisation. This migration occurs after disc dispersal and so the planet does not accrete the O-rich solids from the inner disc. Figure from [Kirk et al., 2024](https://ui.adsabs.harvard.edu/abs/2024RASTI...3..691K/abstract)</figcaption>
+<figcaption>_Figure 1: Schematic demonstrating the hypothesis test. The left hand diagram shows a planet that is born far out in the disc before undergoing partial migration through ice lines (CO and CO2 in this example). Subsequently, there are two possible pathways this planet might follow to become a hot Jupiter: i) migration through the inner disc whereby the planet's orbit remains aligned (top right). In this case, the planet migrates through the H$_2$O ice line (light blue dashed circle) and accretes O-rich solids from the inner disc. ii) disc-free (high-eccentricity) migration, whereby the planet is perturbed onto an eccentric and misaligned orbit before undergoing tidal circularisation. This migration occurs after disc dispersal and so the planet does not accrete the O-rich solids from the inner disc. Figure from Kirk et al., 2024._</figcaption>
 </figure>
 </center>
 
@@ -38,14 +38,14 @@ Figure 2 shows the planetary and stellar parameters of our sample of eight hot J
 <center>
 <figure>
 <img src="assets/images/sample_obliquities_augmented_sample.pdf" width="60%" height="60%">
-<figcaption>The obliquities and equilibrium temperatures of our sample. The aligned targets are shown in orange and misaligned targets are in blue. Open circles correspond to targets in JWST programme GO 3838, crosses to targets from other JWST programmes.  Figure from [Kirk et al., 2024](https://ui.adsabs.harvard.edu/abs/2024RASTI...3..691K/abstract)</figcaption>
+<figcaption>_Figure 2: The obliquities and equilibrium temperatures of our sample. The aligned targets are shown in orange and misaligned targets are in blue. Open circles correspond to targets in JWST programme GO 3838, crosses to targets from other JWST programmes.  Figure from Kirk et al., 2024._</figcaption>
 </figure>
 </center>
 
 <center>
 <figure>
 <img src="assets/images/sample_kraft_break_augmented_sample.pdf" width="60%" height="60%">
-<figcaption>the effective temperatures and metallicities of the host stars, plotted with respect to the metallicity-dependent Kraft break which is taken from Spalding \& Winn (2022).  Figure from [Kirk et al., 2024](https://ui.adsabs.harvard.edu/abs/2024RASTI...3..691K/abstract)</figcaption>
+<figcaption>_Figure 3: The effective temperatures and metallicities of the host stars, plotted with respect to the metallicity-dependent Kraft break which is taken from Spalding \& Winn (2022).  Figure from Kirk et al., 2024._</figcaption>
 </figure>
 </center>
 
@@ -56,7 +56,7 @@ Figure 2 shows the planetary and stellar parameters of our sample of eight hot J
 <center>
 <figure>
 <img src="assets/images/W15_Tiberius_best_fit.pdf" width="60%" height="60%">
-<figcaption>WASP-15b's spectrum (black data points) and different atmospheric models assuming free chemistry (blue), equilibrium chemistry (orange), and hybrid chemistry (equilibrium chemistry plus free S-bearing species, green).  Figure from [Kirk et al., 2024b](https://ui.adsabs.harvard.edu/abs/2024arXiv241008116K/abstract)</figcaption>
+<figcaption>_Figure 4: WASP-15b's spectrum (black data points) and different atmospheric models assuming free chemistry (blue), equilibrium chemistry (orange), and hybrid chemistry (equilibrium chemistry plus free S-bearing species, green).  Figure from Kirk et al., 2024b._</figcaption>
 </figure>
 </center>
 
