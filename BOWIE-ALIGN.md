@@ -51,16 +51,26 @@ Figure 2 shows the planetary and stellar parameters of our sample of eight hot J
 
 ## The results
 
-**- WASP-15b** ([Kirk et al., 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv241008116K/abstract))
+**- WASP-15b** ([Kirk et al., 2025](https://ui.adsabs.harvard.edu/abs/2025MNRAS.537.3027K/abstract))
 
 <center>
 <figure>
 <img src="assets/images/W15_Tiberius_best_fit.pdf" width="60%" height="60%">
-<figcaption>Figure 4: WASP-15b's spectrum (black data points) and different atmospheric models assuming free chemistry (blue), equilibrium chemistry (orange), and hybrid chemistry (equilibrium chemistry plus free S-bearing species, green).  Figure from Kirk et al., 2024b.</figcaption>
+<figcaption>Figure 4: WASP-15b's spectrum (black data points) and different atmospheric models assuming free chemistry (blue), equilibrium chemistry (orange), and hybrid chemistry (equilibrium chemistry plus free S-bearing species, green).  Figure from Kirk et al., 2025.</figcaption>
 </figure>
 </center>
 
 The first result we presented was the 2.8--5.2 micron transmission spectrum of the _misaligned_ hot Jupiter WASP-15b (Figure 4). Our high signal to noise data, which has negligible red noise, revealed significant absorption by H2O (4.2 sigma) and CO2 (8.9 sigma). From independent data reduction and atmospheric retrieval approaches, we inferred that WASP-15b's atmospheric metallicity is super-solar (>~ 15X solar) and its C/O is consistent with solar, that together imply planetesimal accretion. Our GCM simulations for WASP-15b suggest that the C/O we measure at the limb is likely representative of the entire photosphere due to the mostly uniform spatial distribution of H2O, CO2 and CO. We additionally see evidence for absorption by SO2 and absorption at 4.9 micron, for which the current leading candidate is OCS, albeit with several caveats. If confirmed, this would be the first detection of OCS in an exoplanet atmosphere and point towards complex photochemistry of sulphur-bearing species in the upper atmosphere. This is was the first result in our mission to perform a comparative study of aligned vs misaligned hot Jupiters.
+
+## The team
+
+PIs: James Kirk (Imperial College London) and [Eva-Maria Ahrer](https://www.mpia.de/person/130439/5092118) (MPIA)
+
+Co-Is: Alastair Claringbold (Warwick, HAT-P-30b lead), Anna Penzlin (Imperial College London), Annabella Meech (Harvard-Smithsonian CfA, TrES-4b lead), Charlotte Fairman (Bristol, NGTS-2b lead), Chloe Fisher (Oxford), Daniel Valentine (Bristol), David Grant (Bristol), Denis Sergeev (Bristol), Diana Powell (Chicago), Duncan Christie (MPIA), Emma Esparza-Borges (IAC), Eric Hebrard (Exeter), Hannah Wakeford (Bristol), Jake Taylor (Oxford), James Owen (Imperial College London), Kathryn Jones (Bern), Lili Alderson (Cornell), Maria Zamyatina (Exeter), Mark Hammond (Oxford), Mason McCormack (Chicago), Matthew Lodge (Bristol), Mercedes López-Morales (STScI), Nathan Mayne (Exeter), Neil Lewis (Exeter), Peter Wheatley (Warwick), Richard Booth (Leeds), Robin Baeyens (Amsterdam), Shami Tsai (UC Riverside), Vatsal Panwar (Warwick)
+
+
+
+
 
 ## News
 
